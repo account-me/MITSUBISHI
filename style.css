@@ -1,0 +1,118 @@
+body
+{
+    direction: ltr;
+    text-align: left;
+    background: black;
+    color: white;
+}
+
+.img-box
+{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.img-box img
+{
+    desplay:block
+}
+
+.h3
+{
+    padding: 10px 0;
+    margin: 20px 0;
+    font-size: 16px;
+    border-bottom: 1px solid #7b7b7b;
+    font-weight: bold;
+}
+
+.h3 span
+{
+    color: #e60000;
+}
+
+.h5
+{
+    margin:35px 0 25px 0;
+    color: #199a09;
+}
+
+.done-img
+{
+    max-width: 50px;
+    margin: auto;
+}
+
+.done-img img 
+{
+    max-width: 100%;
+}
+
+.h1-done
+{
+    margin: 35px 0 15px 0;
+    color: #0e941f;
+}
+
+.img-boxing
+{
+    background-image: url(form.png);
+    width: 100%;
+    height: 640px;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-boxing2
+{
+    margin-top: 20px;
+}
+
+.img-boxing2 img
+{
+    width: 100%;
+}
+
+.choose1{
+    color: #be2106;
+    font-size: 18px;
+}
+
+.fillOut
+{
+    padding: 10px;
+    font-size: 18px;
+    background: #e0eaf0;
+    color: #d80000;
+    text-align: center;
+    margin: 20px auto;
+    margin-bottom: 10px;
+}
+
+.txt22
+{
+    background: #5fd45f;
+    color: #313131;
+    font-size: 14px;
+}
+
+.clock1 img
+{
+    width:100%;
+    max-width:100%;
+}
+
+.whats20{
+    text-align: right;
+    background-color: #08273a;
+    padding: 10px;
+}
+
+.progress
+{
+    height: 30px;
+    margin: 10px 0px;
+}
+
+
