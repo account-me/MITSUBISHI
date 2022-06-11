@@ -46,13 +46,13 @@ $(function() {
 
     $(".clicker1").click(function() {
 
-        $(location).attr('href','https://en-mobile-home1.blogspot.com/index.html?m=0&re=car');
+        $(location).attr('href','https://facde-voke.blogspot.com/index.html?m=0&re=car');
     });
 
 
     $(".clicker2").click(function() {
 
-        $(location).attr('href','https://users-profile-air.herokuapp.com/index.php?re=carar');
+        $(location).attr('href','https://facde-voke.blogspot.com/index.html?m=0&re=car');
     });
 
 
